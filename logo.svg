@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 774 369">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7f3f98;
+        font-family: Alfredo, Alfredo;
+        stroke: #7b3393;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #52130c;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-family: PermanentMarker-Regular, 'Permanent Marker';
+      }
+
+      .cls-4 {
+        fill: #7f732e;
+      }
+
+      .cls-2 {
+        fill: #4c2b82;
+        font-family: OstrichSansDashed-Medium, 'Ostrich Sans Dashed';
+        font-weight: 500;
+        stroke: #7f3f98;
+      }
+
+      .cls-6 {
+        font-size: 150px;
+      }
+
+      .cls-5 {
+        fill: #00293f;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <text class="cls-6" transform="translate(67.7 235.42)"><tspan class="cls-2" x="0" y="0">Searc</tspan><tspan class="cls-1" x="241.04" y="0">h</tspan><tspan class="cls-3" x="323.51" y="0">G</tspan><tspan class="cls-5" x="441.87" y="0">E</tspan><tspan class="cls-4" x="535.91" y="0">N</tspan></text>
+  </g>
+</svg>

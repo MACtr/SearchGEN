@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>SearchGEN</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Search Engine World">
+    <meta name="keywords" content="search, engine, vuhuv">
+    <link rel="icon" type="image/x-icon" href="icon.ico"/>
+    <meta name="author" content="MAC">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="menu">
+
+        <button id="theme" value="1"  >🌔</button>
+        <a href="home.html" target="ask"  ><img id="logo"  src="logo.svg" /></a>
+        
+        <select id="search_engines_list" >
+            <option value="se1" >VUHUV</option>
+            <option value="se2" >ARTADO</option>
+            <option value="se3" >AZİMLİ</option>
+            <option value="se4" >TURTC</option>
+            <option value="se5" >YETİTA</option>
+            <option value="se6" >BİLİVER</option>
+            <option value="se7" >OBİLİYO</option>
+            <option value="se8" >RASTGELELİK</option>
+            <option value="se9" >ARARIM</option>
+            <option value="se10" >COM</option>
+            <option value="se11" >YAANİ</option>
+            <option value="se12" >VALLAKİ</option>
+        </select>
+
+        <section id="search_box" >
+            <form id="form"  method="get" action="https://tr.vuhuv.com/?q=" target="ask" >
+                <input id="search_bar" type="search" placeholder="VUHUV ile ara" autocomplete="off" required name="q"/>
+                <button id="search_button" >🔎</button>
+            </form>
+        </section>
+
+        <section id="search_engine_menu" >
+            <a href="https://www.artadosearch.com/Forum" target="ask"  >Artado Forum</a>
+            <a id="m1"  href="https://tr.vuhuv.com/?k=0&p=1&d=1&q=haberler" target="ask" >Güncelleme Notları</a>
+            <a href="searchgen.apk" >Android Uygulaması (🔒) </a>
+            <a href="mailto:ledenav@vuhuv.com" >İletişim</a>
+        </section>
+
+        <footer id="genesis" >
+            <h5><i>powered by</i> <b id="signature" >MAC</b></h5>
+        </footer>
+
+    </header>
+
+    <button id="menu_button">⛔</button>
+    
+    <div id="query_answer">
+        <iframe id="frame" name="ask" src="home.html"></iframe>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
