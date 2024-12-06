@@ -20,4 +20,4 @@
 ├── index.html
 └── home.html
  ```
-## Powered by MAC
+## Powered by MACtr
