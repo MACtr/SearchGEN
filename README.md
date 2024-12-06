@@ -1,8 +1,8 @@
 
 # SearchGEN - Arama Motoru Projesi
 
-## Proje Yapısı
-/project-root
+
+##/project-root
 │
 ├── /css
 │   └── style.css
