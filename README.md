@@ -1,6 +1,7 @@
 
-powered by MAC
+# SearchGEN - Arama Motoru Projesi
 
+## Proje Yapısı
 /project-root
 │
 ├── /css
@@ -14,7 +15,10 @@ powered by MAC
 │   └── icon.ico
 │
 ├── /fonts
-│   └──
+│   └── 
 │
 ├── index.html
 └── home.html
+ 
+## Powered by MAC
+```
