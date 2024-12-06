@@ -2,7 +2,7 @@
 # SearchGEN - Arama Motoru Projesi
 
 
-##/project-root
+## /project-root
 │
 ├── /css
 │   └── style.css
